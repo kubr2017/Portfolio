@@ -2,6 +2,7 @@
 header {
   color: #0495bf;
 }
+
 .logo{
   float:left;
 }
@@ -27,7 +28,7 @@ main h1{
 
 .project-wrap{
   border-bottom: 1px double #aaa;
-  padding: 1%; 
+  padding: 1%;
 }
 
 .project-slide {
