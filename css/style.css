@@ -25,6 +25,11 @@ main h1{
   margin: auto;
 }
 
+.project-wrap{
+  border-bottom: 1px double #aaa;
+  padding: 1%; 
+}
+
 .project-slide {
   width: 50%;
   overflow: auto;
