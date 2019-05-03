@@ -20,6 +20,20 @@ main h1{
   text-align: center;
 }
 
+.projects-container{
+  width:90%;
+  margin: auto;
+}
+
+.project-slide {
+  width: 50%;
+  overflow: auto;
+}
+
+.project-slide img {
+  width:100%;
+}
+
 footer .footer-content{
  float: right;
  color: #0495bf;
