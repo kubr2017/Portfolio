@@ -1,0 +1,26 @@
+
+header {
+  color: #0495bf;
+}
+.logo{
+  float:left;
+}
+
+.vcard{
+  float:right;
+}
+
+.clear-fix::after{
+  content: " ";
+  clear: both;
+  display: table;
+}
+
+main h1{
+  text-align: center;
+}
+
+footer .footer-content{
+ float: right;
+ color: #0495bf;
+}
