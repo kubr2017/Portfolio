@@ -44,7 +44,7 @@ main h1{
 .project-description{
   width: 45%;
   display: inline-block;
-  vertical-align: top;
+  vertical-align:top;
 }
 
 footer .footer-content{
