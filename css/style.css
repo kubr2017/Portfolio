@@ -34,10 +34,17 @@ main h1{
 .project-slide {
   width: 50%;
   overflow: auto;
+  display: inline-block;
 }
 
 .project-slide img {
   width:100%;
+}
+
+.project-description{
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
 }
 
 footer .footer-content{
