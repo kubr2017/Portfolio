@@ -45,6 +45,7 @@ main h1{
   width: 45%;
   display: inline-block;
   vertical-align:top;
+  padding: 2%;
 }
 
 footer .footer-content{
