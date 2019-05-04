@@ -7,8 +7,18 @@ header {
   float:left;
 }
 
+.logo img{
+  width:75px;
+}
+
 .vcard{
+  width:50%;
   float:right;
+  text-align: right;
+}
+
+.vcard h2{
+  margin: 1% 2%;
 }
 
 .clear-fix::after{
