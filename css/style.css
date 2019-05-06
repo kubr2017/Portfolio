@@ -32,7 +32,7 @@ main h1{
 }
 
 .projects-container{
-  width:90%;
+  width:1200px;
   margin: auto;
 }
 
@@ -61,4 +61,12 @@ main h1{
 footer .footer-content{
  float: right;
  color: #0495bf;
+}
+/**************************Responsivness with @media query*/
+
+@media screen and (min-width:900px) and (max-width:1199px) {
+  .projects-container{
+    width:90%;
+    margin: auto;
+  }
 }
