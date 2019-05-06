@@ -70,3 +70,31 @@ footer .footer-content{
     margin: auto;
   }
 }
+
+@media screen and (min-width:700px) and (max-width:899px) {
+
+  .logo img{
+    width: 35px;
+  }
+
+  h2{
+    font-size: 1em;
+  }
+  .projects-container{
+    width:95%;
+    margin: auto;
+    font-size: 0.9em;
+  }
+
+  .project-slide{
+    width: 95%;
+  }
+
+  .project-description{
+    width: 95%;
+  }
+
+  .pad-view{
+    display: none;
+  }
+}
