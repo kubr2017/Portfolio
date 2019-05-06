@@ -71,10 +71,14 @@ footer .footer-content{
   }
 }
 
-@media screen and (min-width:700px) and (max-width:899px) {
+@media screen and (min-width:500px) and (max-width:899px) {
 
   .logo img{
     width: 35px;
+  }
+
+  h1{
+    font-size: 1.5em;
   }
 
   h2{
@@ -97,4 +101,38 @@ footer .footer-content{
   .pad-view{
     display: none;
   }
+
+}
+
+  @media screen and (min-width:300px) and (max-width:499px) {
+
+    .logo img{
+      width: 35px;
+    }
+
+    h1{
+      font-size: 1em;
+    }
+
+    h2{
+      font-size: 0.7em;
+    }
+
+    .projects-container{
+      width:95%;
+      margin: auto;
+      font-size: 0.7em;
+    }
+
+    .project-slide{
+      width: 95%;
+    }
+
+    .project-description{
+      width: 95%;
+    }
+
+    .pad-view{
+      display: none;
+    }
 }
